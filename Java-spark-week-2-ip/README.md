@@ -10,3 +10,8 @@
 
 ## About this project
 - It's about Hero Squad Team.
+
+## Setup Instructions
+- git clone https://github.com/besimani/java-spark-week-2-ip
+- open the cloned folder in intelliJ
+- Go live
