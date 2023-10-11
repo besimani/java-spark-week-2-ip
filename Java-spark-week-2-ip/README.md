@@ -24,3 +24,6 @@
 
 ## Live Link
 - https://besimani.github.io/java-spark-week-2-ip
+
+## License
+- (c) 2023 Bernard Amaitsa Simani
