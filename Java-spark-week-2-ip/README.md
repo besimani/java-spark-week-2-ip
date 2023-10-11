@@ -15,3 +15,9 @@
 - git clone https://github.com/besimani/java-spark-week-2-ip
 - open the cloned folder in intelliJ
 - Go live
+
+## Technologies used
+- Java
+- Spark Framework
+- Graddle
+- Git & Github
